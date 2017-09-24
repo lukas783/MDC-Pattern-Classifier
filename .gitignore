@@ -1,0 +1,5 @@
+*.IGNORE
+__pycache__
+.vscode
+*.json
+
